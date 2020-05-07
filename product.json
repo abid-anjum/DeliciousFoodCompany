@@ -34,133 +34,133 @@
       "name": "Beef Grill",
       "price": 24,
       "categorie": 1,
-      "image": "https://raw.githubusercontent.com/abidanjum2019/FoodStore/master/beef-grill.png"
+      "image": "beef-grill.png"
     },
     {
       "name": "Chicken Picatta",
       "price": 20,
       "categorie": 1,
-      "image": "https://raw.githubusercontent.com/abidanjum2019/FoodStore/master/chicken-piccata.png"
+      "image": "chicken-piccata.png"
     },
     {
       "name": "Chicken Romesco",
       "price": 21,
       "categorie": 1,
-      "image": "https://raw.githubusercontent.com/abidanjum2019/FoodStore/master/chicken-romesco.png"
+      "image": "chicken-romesco.png"
     },
     {
       "name": "Chicken Grill",
       "price": 22,
       "categorie": 1,
-      "image": "https://raw.githubusercontent.com/abidanjum2019/FoodStore/master/chicken-grill.png"
+      "image": "chicken-grill.png"
     },
     {
       "name": "Salmon Grill",
       "price": 26,
       "categorie": 1,
-      "image": "https://raw.githubusercontent.com/abidanjum2019/FoodStore/master/salmon-grill.png"
+      "image": "salmon-grill.png"
     },
     {
       "name": "Salmon Romesco",
       "price": 25,
       "categorie": 1,
-      "image": "https://raw.githubusercontent.com/abidanjum2019/FoodStore/master/salmon-romesco.png"
+      "image": "salmon-romesco.png"
     },
     {
       "name": "Burger Home",
       "price": 16,
       "categorie": 2,
-      "image": "https://raw.githubusercontent.com/abidanjum2019/FoodStore/master/burger-1.png"
+      "image": "burger-1.png"
     },
     {
       "name": "MegaBurger",
       "price": 16,
       "categorie": 2,
-      "image": "https://raw.githubusercontent.com/abidanjum2019/FoodStore/master/burger-2.png"
+      "image": "burger-2.png"
     },
     {
       "name": "Burger Special",
       "price": 16,
       "categorie": 2,
-      "image": "https://raw.githubusercontent.com/abidanjum2019/FoodStore/master/burger-3.png"
+      "image": "burger-3.png"
     },
     {
       "name": "Burger Cheese",
       "price": 16,
       "categorie": 2,
-      "image": "https://raw.githubusercontent.com/abidanjum2019/FoodStore/master/burger-4.png"
+      "image": "burger-4.png"
     },
     {
       "name": "Burger Farmer",
       "price": 16,
       "categorie": 1,
-      "image": "https://raw.githubusercontent.com/abidanjum2019/FoodStore/master/burger-5.png"
+      "image": "burger-5.png"
     },
     {
       "name": "Mini Burger",
       "price": 16,
       "categorie": 2,
-      "image": "https://raw.githubusercontent.com/abidanjum2019/FoodStore/master/burger-6.png"
+      "image": "burger-6.png"
     },
     {
       "name": "Pizza Vegan",
       "price": 14,
       "categorie": 3,
-      "image": "https://raw.githubusercontent.com/abidanjum2019/FoodStore/master/pizza-1.png"
+      "image": "pizza-1.png"
     },
     {
       "name": "Pizza Bufalisimo",
       "price": 14,
       "categorie": 3,
-      "image": "https://raw.githubusercontent.com/abidanjum2019/FoodStore/master/pizza-2.png"
+      "image": "pizza-2.png"
     },
     {
       "name": "Pizza Haiwaiana",
       "price": 13,
       "categorie": 3,
-      "image": "https://raw.githubusercontent.com/abidanjum2019/FoodStore/master/pizza-3.png"
+      "image": "pizza-3.png"
     },
     {
       "name": "Pizza Peperoni",
       "price": 16,
       "categorie": 3,
-      "image": "https://raw.githubusercontent.com/abidanjum2019/FoodStore/master/pizza-4.png"
+      "image": "pizza-4.png"
     },
     {
       "name": "Pizza Vegan 2",
       "price": 12,
       "categorie": 3,
-      "image": "https://raw.githubusercontent.com/abidanjum2019/FoodStore/master/pizza-5.png"
+      "image": "pizza-5.png"
     },
     {
       "name": "Pizza Napolitana",
       "price": 18,
       "categorie": 3,
-      "image": "https://raw.githubusercontent.com/abidanjum2019/FoodStore/master/pizza-6.png"
+      "image": "pizza-6.png"
     },
     {
       "name": "Coca cola",
       "price": 2,
       "categorie": 4,
-      "image": "https://raw.githubusercontent.com/abidanjum2019/FoodStore/master/cocacola.png"
+      "image": "cocacola.png"
     },
     {
       "name": "Pepsi",
       "price": 2,
       "categorie": 4,
-      "image": "https://raw.githubusercontent.com/abidanjum2019/FoodStore/master/pepsi.png"
+      "image": "pepsi.png"
     },
     {
       "name": "Quatro",
       "price": 2,
       "categorie": 4,
-      "image": "https://raw.githubusercontent.com/abidanjum2019/FoodStore/master/quatro.png"
+      "image": "quatro.png"
     },
     {
       "name": "Sprite",
       "price": 2,
       "categorie": 4,
-      "image": "https://raw.githubusercontent.com/abidanjum2019/FoodStore/master/sprite.png"
+      "image": "sprite.png"
     }
   ]
 }
