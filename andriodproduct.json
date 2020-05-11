@@ -5,7 +5,7 @@
       "name": "Beef Grill",
       "price": 1900,
       "categorie": 1,
-      "image": "https://github.com/abidanjum2019/DeliciousFoodCompany/beef-grill.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/DeliciousFoodCompany/master/beef-grill.png"
     },
     {
       "id": 2,
@@ -13,7 +13,7 @@
       "name": "Chicken Picatta",
       "price": 2000,
       "categorie": 1,
-      "image": "https://github.com/abidanjum2019/DeliciousFoodCompany/chicken-piccata.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/DeliciousFoodCompany/master/chicken-piccata.png"
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@
       "name": "Chicken Romesco",
       "price": 2100,
       "categorie": 1,
-      "image": "https://github.com/abidanjum2019/DeliciousFoodCompany/chicken-romesco.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/DeliciousFoodCompany/master/chicken-romesco.png"
     },
     {
       "id": 4,
@@ -29,7 +29,7 @@
       "name": "Chicken Grill",
       "price": 2200,
       "categorie": 1,
-      "image": "https://github.com/abidanjum2019/DeliciousFoodCompany/chicken-grill.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/DeliciousFoodCompany/master/chicken-grill.png"
     },
     {
       "id": 5,
@@ -37,7 +37,7 @@
       "name": "Salmon Grill",
       "price": 2600,
       "categorie": 1,
-      "image": "https://github.com/abidanjum2019/DeliciousFoodCompany/salmon-grill.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/DeliciousFoodCompany/master/salmon-grill.png"
     },
     {
       "id": 6,
@@ -45,7 +45,7 @@
       "name": "Salmon Romesco",
       "price": 2500,
       "categorie": 1,
-      "image": "https://github.com/abidanjum2019/DeliciousFoodCompany/salmon-romesco.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/DeliciousFoodCompany/master/salmon-romesco.png"
     },
     {
       "id": 7,
@@ -53,7 +53,7 @@
       "name": "Burger Home",
       "price": 750,
       "categorie": 2,
-      "image": "https://github.com/abidanjum2019/DeliciousFoodCompany/burger-1.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/DeliciousFoodCompany/master/burger-1.png"
     },
     {
       "id": 8,
@@ -61,7 +61,7 @@
       "name": "MegaBurger",
       "price": 900,
       "categorie": 2,
-      "image": "https://github.com/abidanjum2019/DeliciousFoodCompany/burger-2.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/DeliciousFoodCompany/master/burger-2.png"
     },
     {
       "id": 9,
@@ -69,7 +69,7 @@
       "name": "Burger Special",
       "price": 700,
       "categorie": 2,
-      "image": "https://github.com/abidanjum2019/DeliciousFoodCompany/burger-3.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/DeliciousFoodCompany/master/burger-3.png"
     },
     {
       "id": 10,
@@ -77,7 +77,7 @@
       "name": "Burger Cheese",
       "price": 400,
       "categorie": 2,
-      "image": "https://github.com/abidanjum2019/DeliciousFoodCompany/burger-4.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/DeliciousFoodCompany/master/burger-4.png"
     },
     {
       "id": 11,
@@ -85,7 +85,7 @@
       "name": "Burger Farmer",
       "price": 600,
       "categorie": 1,
-      "image": "https://github.com/abidanjum2019/DeliciousFoodCompany/burger-5.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/DeliciousFoodCompany/master/burger-5.png"
     },
     {
       "id": 12,
@@ -93,7 +93,7 @@
       "name": "Mini Burger",
       "price": 560,
       "categorie": 2,
-      "image": "https://github.com/abidanjum2019/DeliciousFoodCompany/burger-6.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/DeliciousFoodCompany/master/burger-6.png"
     },
     {
       "id": 13,
@@ -101,7 +101,7 @@
       "name": "Pizza Vegan",
       "price": 1400,
       "categorie": 3,
-      "image": "https://github.com/abidanjum2019/DeliciousFoodCompany/pizza-1.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/DeliciousFoodCompany/master/pizza-1.png"
     },
     {
       "id": 14,
@@ -109,7 +109,7 @@
       "name": "Pizza Bufalisimo",
       "price": 1400,
       "categorie": 3,
-      "image": "https://github.com/abidanjum2019/DeliciousFoodCompany/pizza-2.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/DeliciousFoodCompany/master/pizza-2.png"
     },
     {
       "id": 15,
@@ -117,7 +117,7 @@
       "name": "Pizza Haiwaiana",
       "price": 1300,
       "categorie": 3,
-      "image": "https://github.com/abidanjum2019/DeliciousFoodCompany/pizza-3.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/DeliciousFoodCompany/master/pizza-3.png"
     },
     {
       "id": 16,
@@ -125,7 +125,7 @@
       "name": "Pizza Peperoni",
       "price": 1600,
       "categorie": 3,
-      "image": "https://github.com/abidanjum2019/DeliciousFoodCompany/pizza-4.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/DeliciousFoodCompany/master/pizza-4.png"
     },
     {
       "id": 17,
@@ -133,7 +133,7 @@
       "name": "Pizza Vegan 2",
       "price": 1200,
       "categorie": 3,
-      "image": "https://github.com/abidanjum2019/DeliciousFoodCompany/pizza-5.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/DeliciousFoodCompany/master/pizza-5.png"
     },
     {
       "id": 18,
@@ -141,7 +141,7 @@
       "name": "Pizza Vegan 2",
       "price": 1800,
       "categorie": 3,
-      "image": "https://github.com/abidanjum2019/DeliciousFoodCompany/pizza-6.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/DeliciousFoodCompany/master/pizza-6.png"
     },
     {
       "id": 19,
@@ -149,7 +149,7 @@
       "name": "Coca cola",
       "price": 250,
       "categorie": 4,
-      "image": "https://github.com/abidanjum2019/DeliciousFoodCompany/cocacola.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/DeliciousFoodCompany/master/cocacola.png"
     },
     {
       "id": 20,
@@ -157,7 +157,7 @@
       "name": "Pepsi",
       "price": 250,
       "categorie": 4,
-      "image": "https://github.com/abidanjum2019/DeliciousFoodCompany/pepsi.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/DeliciousFoodCompany/master/pepsi.png"
     },
     {
       "id": 21,
@@ -165,7 +165,7 @@
       "name": "Quatro",
       "price": 2,
       "categorie": 4,
-      "image": "https://github.com/abidanjum2019/DeliciousFoodCompany/quatro.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/DeliciousFoodCompany/master/quatro.png"
     },
     {
       "id": 22,
@@ -173,6 +173,6 @@
       "name": "Sprite",
       "price": 250,
       "categorie": 4,
-      "image": "https://github.com/abidanjum2019/DeliciousFoodCompany/sprite.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/DeliciousFoodCompany/master/sprite.png"
     }
 ]
